@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Prorab" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+
+        <!-- ... другие настройки ... -->
+
+        <!-- !!! ДОБАВЬ ВОТ ЭТИ СТРОКИ !!! -->
+
+        <!-- Красим фон системного окна в наш цвет -->
+        <item name="android:windowBackground">@color/splash_background</item>
+
+        <!-- Красим статус бар (верхняя полоска с часами) в наш цвет -->
+        <item name="android:statusBarColor">@color/splash_background</item>
+
+        <!-- Убираем заголовок (если вдруг он есть) -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@drawable/transparent_icon</item>
+    </style>
+</resources>
