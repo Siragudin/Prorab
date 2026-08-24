@@ -5,9 +5,12 @@
 <div align="center">
 
 <p align="center">
-  <img src="images/screenshot1.png" width="220">
-  <img src="images/screenshot2.png" width="220">
-  <img src="images/screenshot3.png" width="220">
+  <img src="docs/icon.jpg" width="220">
+  <img src="docs/icon1.jpg" width="220">
+  <img src="docs/icon2.jpg" width="220">
+  <img src="docs/icon3.jpg" width="220">
+  <img src="docs/icon4.jpg" width="220">
+  <img src="docs/icon5.jpg" width="220">
 </p>
 
 </div>
